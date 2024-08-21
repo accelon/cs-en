@@ -1,0 +1,12 @@
+{
+    "name":"cs-en",
+    "title": "Pali Tipitaka in English|cs-en",
+    "description":"English Translation of Pali Tipitaka (Various Author)",
+    "template":"cs",
+    "lang":"en",
+    "label":"bb,end,trailer,cite,pdf,pts,en,cut,paste,by,i,hh,edit,notranslation,missing,editnote",
+    "removeLabels":"pdf,pts",
+    "homepage":"https://github.com/accelon/cs-en",
+    "notesjson":"note",
+    "files":"aas.en.off,vs.en.off"
+}
